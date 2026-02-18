@@ -53,7 +53,7 @@ Di sini kita bakal ngelewatin tiap episode dengan seru:
 
 | Episode | Title | Status | Highlight |
 | :--- | :--- | :--- | :--- |
-| [Eps 01](./Csharp-Series/01-Introduction/README.md) | **Halo, .NET World!** | ✅ Done | Fondasi & Struktur Dasar |
+| [Eps 01](../Csharp-Series/01-Introduction/README.md) | **Halo, .NET World!** | ✅ Done | Fondasi & Struktur Dasar |
 | Eps 02 | **Variabel & Data Type** | ⏳ Next | Manipulasi Data biar nggak *error* |
 | Eps 03 | **Operators** | ⏳ Soon | Matematika tapi asik |
 | Eps 04 | **IF/ELSE (Logic)** | ⏳ Soon | Biar program lo nggak *clueless* pas milih |
