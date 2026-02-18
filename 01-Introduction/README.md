@@ -28,7 +28,7 @@ Di sini kita bakal ngelewatin tiap episode dengan seru:
 ---
 
 ## 🚀 Cara Pakenya?
-1. **Clone** repo ini: `git clone https://github.com/netdevcobra/nama-repo.git`
+1. **Clone** repo ini: `https://github.com/NetDevCobra/Csharp-Series.git`
 2. **Buka** di Visual Studio 2022 atau VS Code.
 3. **Run** kodenya, trus rasain *magic*-nya! ✨
 
