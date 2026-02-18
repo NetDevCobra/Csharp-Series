@@ -35,3 +35,17 @@ Di sini kita bakal ngelewatin tiap episode dengan seru:
 ---
 
 > **Note dari Gue:** > "Coding itu emang kadang bikin pusing, tapi kalau udah *running* tanpa error, rasanya lebih asik daripada dapet notif transferan. Gas terus!" 🚀
+
+## Contoh Kode Sederhana
+```csharp
+using System;
+namespace HelloWorldApp
+{
+   class Program
+   {
+       static void Main(string[] args)
+       {
+           Console.WriteLine("Hello, World!");
+       }
+   }
+}
