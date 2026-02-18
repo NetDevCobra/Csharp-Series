@@ -21,5 +21,29 @@ string heroName = "Lancelot";
 int powerLevel = 99;
 double winRate = 75.5;
 bool isMythic = true;
-
 Console.WriteLine($"Hero: {heroName} | Power: {powerLevel} | WR: {winRate}% | Mythic: {isMythic}");
+```
+
+## Exercise (Tantangan Buat Lo!) 📝 
+Coba buat program "KTP Digital" sederhana. Simpan data berikut ke variabel:
+
+Nama Lengkap
+
+Umur
+
+Tinggi Badan
+
+Apakah sudah lulus sekolah? (true/false)
+
+Tampilkan semua data itu dalam satu kalimat keren di Console!
+
+```csharp
+using System;
+
+namespace Episode02;
+
+class Program
+{
+    static void Main(string[] args)
+    {
+```
