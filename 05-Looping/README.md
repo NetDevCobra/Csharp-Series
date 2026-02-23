@@ -33,4 +33,4 @@ Output yang diharapkan:
 ... dst sampai 5 x 5 = 25
 ```
 ---
-
+### Cobra Note: "Komputer itu mesin yang patuh. Jangan biarkan dirimu melakukan tugas repetitif kalau kamu bisa menyuruh komputer melakukannya untukmu!" 🐍
