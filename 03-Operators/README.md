@@ -49,7 +49,6 @@ Tentukan variabel kenaDiskon (bool) yang bernilai true HANYA JIKA totalBelanja l
 Print hasilnya di Console!
 ---
 ---
-
 ## 📚 Curriculum (The Journey)
 
 Di sini kita bakal ngelewatin tiap episode dengan seru:
@@ -60,6 +59,8 @@ Di sini kita bakal ngelewatin tiap episode dengan seru:
 | [Eps 02](../02-Variables-DataType/README.md) | **Variables-DataType** |✅ Done | Manipulasi Data biar nggak *error* |
 | [Eps 03](../03-Operators/README.md)| **Operators** | ✅ Done | Matematika tapi asik |
 | [Eps 04](../04-Logic/README.md) | **IF/ELSE (Logic)** | ✅ Done | Biar program lo nggak *clueless* pas milih |
+| [Eps 05](../05-Looping/README.md) | **Looping** | ✅ Done | Otomatisasi Tanpa Lelah |
+| [Eps 06](../06-Array-Collection) | **Looping** | ✅ Done | Koleksi Data Statis) |
+| [Eps 07](../07-List) | **List** | ✅ Done | Generic Collection) |
 | ⏳ Soon | **⏳ Soon** | ⏳ Soon | ⏳ Soon 
-
 ---
