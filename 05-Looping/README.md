@@ -34,3 +34,15 @@ Output yang diharapkan:
 ```
 ---
 ### Cobra Note: "Komputer itu mesin yang patuh. Jangan biarkan dirimu melakukan tugas repetitif kalau kamu bisa menyuruh komputer melakukannya untukmu!" 🐍
+## 📚 Curriculum (The Journey)
+
+Di sini kita bakal ngelewatin tiap episode dengan seru:
+
+| Episode | Title | Status | Highlight |
+| :--- | :--- | :--- | :--- |
+| [Eps 01](../01-Introduction/README.md) | **Halo, .NET World!** | ✅ Done | Fondasi & Struktur Dasar |
+| [Eps 02](../02-Variables-DataType/README.md) | **Variables-DataType** |✅ Done | Manipulasi Data biar nggak *error* |
+| [Eps 03](../03-Operators/README.md)| **Operators** | ✅ Done | Matematika tapi asik |
+| [Eps 04](../04-Logic/README.md) | **IF/ELSE (Logic)** | ✅ Done | Biar program lo nggak *clueless* pas milih |
+| [Eps 05](../04-Looping/README.md) | **Looping** | ✅ Done | Otomatisasi Tanpa Lelah |
+| ⏳ Soon | **⏳ Soon** | ⏳ Soon | ⏳ Soon 
