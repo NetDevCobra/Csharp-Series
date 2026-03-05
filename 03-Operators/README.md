@@ -62,5 +62,6 @@ Di sini kita bakal ngelewatin tiap episode dengan seru:
 | [Eps 05](../05-Looping/README.md) | **Looping** | ✅ Done | Otomatisasi Tanpa Lelah |
 | [Eps 06](../06-Array-Collection) | **Looping** | ✅ Done | Koleksi Data Statis) |
 | [Eps 07](../07-List) | **List** | ✅ Done | Generic Collection) |
+| [Eps 08](../08-METHOD-Modular-Flow-Control) | **METHOD** | ✅ Done | Fungsi Modular & Flow Control) |
 | ⏳ Soon | **⏳ Soon** | ⏳ Soon | ⏳ Soon 
 ---
